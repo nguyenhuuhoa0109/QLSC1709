@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý kho vật tư - Nhà máy Thủy điện Sơn Trà 1",
+  "description": "Hệ thống quản lý kho vật tư nội bộ Nhà máy Thủy điện Sơn Trà 1 với kiểm soát nhập xuất, phê duyệt, chống tồn âm và báo cáo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
